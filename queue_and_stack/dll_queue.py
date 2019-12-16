@@ -3,6 +3,8 @@ sys.path.append('../doubly_linked_list')
 from doubly_linked_list import DoublyLinkedList
 
 
+
+
 class Queue:
     def __init__(self):
         self.size = 0
@@ -17,3 +19,4 @@ class Queue:
 
     def len(self):
         pass
+
